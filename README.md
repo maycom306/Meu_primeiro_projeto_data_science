@@ -16,5 +16,4 @@ Este projeto foi desenvolvido com os seguintes objetivos:
 - **Pandas:** Biblioteca para manipulação e análise de dados.
 - **Streamlit:** Framework para criação de aplicativos web interativos.
 
-## Estrutura do Projeto
 
